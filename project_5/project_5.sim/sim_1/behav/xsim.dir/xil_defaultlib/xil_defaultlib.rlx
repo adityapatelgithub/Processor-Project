@@ -1,0 +1,21 @@
+0.6
+2016.3
+Oct 10 2016
+19:46:48
+C:/Users/Brijenkumar/Desktop/Final/lab4/lab4.srcs/sources_1/new/ALU.v,1509074641,verilog,,,,ALU,,,,,,,,
+C:/Users/Brijenkumar/Desktop/Final/lab4/lab4.srcs/sources_1/new/Adder.v,1509050794,verilog,,,,Adder,,,,,,,,
+C:/Users/Brijenkumar/Desktop/Final/lab4/lab4.srcs/sources_1/new/CPU.v,1510272722,verilog,,,,CPU,,,,,,,,
+C:/Users/Brijenkumar/Desktop/Final/lab4/lab4.srcs/sources_1/new/Control_Unit.v,1509245730,verilog,,,,Control_Unit,,,,,,,,
+C:/Users/Brijenkumar/Desktop/Final/lab4/lab4.srcs/sources_1/new/Data_Memory.v,1510267686,verilog,,,,Data_Memory,,,,,,,,
+C:/Users/Brijenkumar/Desktop/Final/lab4/lab4.srcs/sources_1/new/Instruction_Memory.v,1510267493,verilog,,,,Instruction_Memory,,,,,,,,
+C:/Users/Brijenkumar/Desktop/Final/lab4/lab4.srcs/sources_1/new/PC_Memory.v,1509071184,verilog,,,,PC_Memory,,,,,,,,
+C:/Users/Brijenkumar/Desktop/Final/lab4/lab4.srcs/sources_1/new/Register_File.v,1509075511,verilog,,,,Register_File,,,,,,,,
+C:/Users/Brijenkumar/Desktop/Final/lab4/lab4.srcs/sources_1/new/Second_Input_ALU.v,1510270751,verilog,,,,Second_Input_ALU,,,,,,,,
+C:/Users/Brijenkumar/Desktop/Final/lab4/lab4.srcs/sources_1/new/Select_Register.v,1509051943,verilog,,,,Select_Register,,,,,,,,
+C:/Users/Brijenkumar/Desktop/Final/lab4/lab4.srcs/sources_1/new/Send_Instruction_Next.v,1509051518,verilog,,,,Send_Instruction_Next,,,,,,,,
+C:/Users/Brijenkumar/Desktop/Final/lab4/lab4.srcs/sources_1/new/Sign_Extension.v,1510271238,verilog,,,,Sign_Extension,,,,,,,,
+C:/Users/Brijenkumar/Desktop/Final/lab4/lab4.srcs/sources_1/new/id_to_exe.v,1509064715,verilog,,,,id_to_exe,,,,,,,,
+C:/Users/Brijenkumar/Desktop/Final/lab4/lab4.srcs/sources_1/new/test.v,1510268575,verilog,,,,test,,,,,,,,
+C:/Users/Brijenkumar/Desktop/project_5/project_5.sim/sim_1/behav/glbl.v,1476033524,verilog,,,,glbl,,,,,,,,
+C:/Users/Brijenkumar/Desktop/project_5/project_5.srcs/sources_1/new/exe_to_mem.v,1510265611,verilog,,,,exe_to_mem,,,,,,,,
+C:/Users/Brijenkumar/Desktop/project_5/project_5.srcs/sources_1/new/mem_to_wb_f.v,1510272821,verilog,,,,mem_to_wb_f,,,,,,,,
